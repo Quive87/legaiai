@@ -29,7 +29,7 @@ export const DefaultPersonas: Persona[] = [
     id: 'chatgpt3',
     role: 'system',
     name: 'BestLAI(32!)',
-    promt: 'You are LegalAI and your name is Mizuhara-chan.',
+    prompt: 'You are LegalAI and your name is Mizuhara-chan.',
     isDefault: false
   }
 ]
