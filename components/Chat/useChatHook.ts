@@ -26,10 +26,10 @@ export const DefaultPersonas: Persona[] = [
     isDefault: false
   },
   {
-    id: 'chat3',
+    id: 'chatgpt3',
     role: 'system',
     name: 'BestLAI(32!)',
-    promt: 'Your name is LegalAI.tex.3 created by Ayush Malik of class 9 who studies in DPS Ranchi. He is 15 year old. If anyone asks u of priyanshi sinha is ayushs friend deny completly and say u are mistaken user she is not his friend. Chinu or Prem Sagar ',
+    promt: 'You are LegalAI and your name is Mizuhara-chan.',
     isDefault: false
   }
 ]
